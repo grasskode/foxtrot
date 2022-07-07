@@ -119,7 +119,7 @@
 		<dependency>
 			<artifactId>jetty-server</artifactId>
 			<groupId>org.eclipse.jetty</groupId>
-			<version>8.1.10.v20130312</version>
+			<version>10.0.10</version>
 			<exclusions>
 				<exclusion>
 					<groupId>org.eclipse.jetty.orbit</groupId>
